@@ -5,4 +5,4 @@ This is an application for web technologies discipline exam that has a backend d
 Operations that are implemented for these entities (both on backend and frontend) are: GET, POST, PUT, DELETE and also filtering, sorting and pagination.
 Besides, data can be imported/exported from/in a JSON file.
 Initial, the database used was SQLite, but for deploying the application on Heroku it has been replaced with PostgreSQL.
-The application is available at this link: https://ana-iordache-examen-webtech.herokuapp.com/.
+The application is available here: https://ana-iordache-examen-webtech.herokuapp.com/.
